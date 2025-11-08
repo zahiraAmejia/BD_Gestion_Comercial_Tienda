@@ -1,0 +1,59 @@
+id_prenda,nombre_prenda,categoria,precio_unitario,stock,etiqueta_genero,id_proveedor
+1,Remera básica blanca,Ropa Casual,$8.990,120,Unisex,1
+2,Pantalón jean azul,Ropa Casual,$21.500,80,Unisex,35
+3,Campera de cuero negra,Abrigo,$58.900,25,Hombre,33
+4,Vestido floral corto,Ropa Femenina,$25.700,45,Mujer,20
+5,Zapatillas urbanas,Calzado,$39.900,60,Unisex,19
+6,Camisa blanca slim fit,Ropa Formal,$18.300,70,Hombre,32
+7,Blusa seda celeste,Ropa Formal,$19.800,50,Mujer,30
+8,Buzo con capucha gris,Abrigo,$16.400,90,Unisex,16
+9,Pantalón jogger negro,Ropa Deportiva,$13.900,85,Unisex,28
+10,Short deportivo,Ropa Deportiva,$10.500,75,Unisex,15
+11,Pollera midi negra,Ropa Femenina,$22.700,35,Mujer,28
+12,Campera inflable liviana,Abrigo,$32.800,40,Unisex,14
+13,Camiseta deportiva dry-fit,Ropa Deportiva,$9.200,110,Hombre,11
+14,Top deportivo,Ropa Deportiva,$8.700,95,Mujer,22
+15,Zapatillas de running,Calzado,$46.300,50,Unisex,12
+16,Remera estampada manga corta,Ropa Casual,$11.500,100,Unisex,18
+17,Pantalón sastre gris,Ropa Formal,$26.900,55,Hombre,19
+18,Falda plisada beige,Ropa Femenina,$23.500,45,Mujer,31
+19,Abrigo largo de lana,Abrigo,$67.200,20,Mujer,24
+20,Chaleco acolchado,Abrigo,$24.900,35,Hombre,17
+21,Campera de jean,Ropa Casual,$27.600,40,Unisex,23
+22,Remera oversize,Ropa Casual,$12.900,85,Unisex,22
+23,Blazer negro,Ropa Formal,$35.400,25,Mujer,28
+24,Pantalón palazzo,Ropa Femenina,$29.500,30,Mujer,10
+25,Sweater tejido beige,Abrigo,$22.300,60,Unisex,3
+26,Zapatillas blancas clásicas,Calzado,$41.700,70,Unisex,4
+27,Camisa cuadros rojos,Ropa Casual,$16.800,55,Hombre,2
+28,Remera sin mangas,Ropa Deportiva,$7.900,100,Mujer,6
+29,Pantalón cargo verde,Ropa Casual,$19.900,65,Hombre,5
+30,Short de jean,Ropa Casual,$14.400,90,Mujer,4
+31,Camperita deportiva,Ropa Deportiva,$18.600,50,Unisex,2
+32,Botines marrones,Calzado,$49.800,40,Hombre,3
+33,Sandalias planas,Calzado,$27.400,45,Mujer,24
+34,Remera básica negra,Ropa Casual,$8.990,110,Unisex,19
+35,Pantalón de vestir negro,Ropa Formal,$25.800,60,Hombre,3
+36,Camisa celeste,Ropa Formal,$18.000,65,Hombre,33
+37,Blusa blanca,Ropa Formal,$17.400,70,Mujer,23
+38,Tapado largo camel,Abrigo,$72.500,20,Mujer,27
+39,Polo clásico negro,Ropa Casual,$15.500,95,Hombre,1
+40,Leggings deportivos,Ropa Deportiva,$28.300,120,Mujer,23
+41,Chaleco acolchado,Abrigo,$42.700,40,Unisex,9
+42,Sandalias planas,Calzado,$11.900,70,Mujer,21
+43,Corbata de seda,Accesorios,$75.800,150,Hombre,23
+44,Gorro de lana,Accesorios,$33.400,100,Unisex,1
+45,Blazer azul marino,Ropa Formal,$56.200,30,Hombre,11
+46,Crop top veraniego,Ropa Casual,$19.600,85,Mujer,28
+47,Mochila urbana,Accesorios,$88.100,60,Unisex,27
+48,Pantalón cargo verde,Ropa Casual,$24.800,65,Hombre,25
+49,Vestido largo de noche,Ropa Femenina,$63.500,15,Mujer,31
+50,Zapatos de vestir negros,Calzado,$37.900,40,Hombre,23
+51,Sudadera con logo,Ropa Casual,$51.300,110,Unisex,21
+52,Short de baño estampado,Ropa Deportiva,$16.700,90,Hombre,20
+53,Falda tableada roja,Ropa Femenina,$92.400,55,Mujer,10
+54,Guantes de invierno,Accesorios,$45.100,130,Unisex,11
+55,Camisa hawaiana,Ropa Casual,$68.900,75,Hombre,28
+56,Body ajustado negro,Ropa Femenina,$22.500,80,Mujer,21
+57,Cinturón de cuero,Accesorios,$79.600,140,Unisex,25
+58,Parka impermeable,Abrigo,$31.200,25,Unisex,31

@@ -1,0 +1,38 @@
+ALTER TABLE VENTAS
+ADD CONSTRAINT fk_ventas_cliente
+    FOREIGN KEY (id_cliente)
+    REFERENCES CLIENTES (id_cliente);
+
+ALTER TABLE VENTAS
+ADD CONSTRAINT fk_ventas_metodo_pago
+    FOREIGN KEY (id_metodo_pago)
+    REFERENCES METODOS_PAGO (id_metodo_pago);
+
+ALTER TABLE VENTAS
+ADD CONSTRAINT fk_ventas_empleado
+    FOREIGN KEY (id_empleado)
+    REFERENCES EMPLEADOS (id_empleado);
+
+
+
+ALTER TABLE DETALLE_VENTAS
+ADD CONSTRAINT fk_detalle_prenda
+    FOREIGN KEY (id_prenda)
+    REFERENCES PRENDAS (id_prenda);
+
+ALTER TABLE DETALLE_VENTAS
+ADD CONSTRAINT fk_detalle_venta
+    FOREIGN KEY (id_venta)
+    REFERENCES VENTAS (id_venta);
+
+
+
+ALTER TABLE PRENDAS
+ADD CONSTRAINT fk_prenda_proveedor
+    FOREIGN KEY (id_proveedor)
+    REFERENCES PROVEEDORES (id_proveedor);
+
+ALTER TABLE PRENDAS
+ADD CONSTRAINT fk_prenda_categoria
+    FOREIGN KEY (id_categoria)
+    REFERENCES CATEGORIAS (id_categoria);
